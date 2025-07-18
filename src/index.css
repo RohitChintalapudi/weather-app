@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-linear-to-r from-0% from-blue-500 to-100% to-pink-600 min-h-screen flex justify-center
+}
