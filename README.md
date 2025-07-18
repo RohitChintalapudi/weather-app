@@ -4,12 +4,6 @@ A simple and responsive weather app that fetches real-time weather data using a 
 
 ---
 
-## 📸 Demo
-
-![Weather App Screenshot](screenshot.png) <!-- Replace with your actual screenshot if available -->
-
----
-
 ## 🚀 Features
 
 - Real-time weather information
