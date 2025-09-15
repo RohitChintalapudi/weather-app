@@ -53,7 +53,7 @@ export default function Main() {
                 icon: icon,
             })
         }catch(err){
-            // Nothing
+            console.log("Something went wrong")
         }
     }
 
